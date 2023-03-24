@@ -1,0 +1,27 @@
+- welcome user
+- prompt an action
+    -view current balance
+    -add a debit
+    -add a credit 
+    -exit
+
+prompt the user for an action - depending on the input
+
+
+
+take the user to the current balance or the other options 
+- what to do with the data      
+
+if invalid input notify the user - input validation function
+
+app should keep the balance -  r/w to a file
+after section is completed keep prompting until they exit
+
+Thought process:
+1. identify the pieces
+2. determine single run or multi-run 
+- while true loop - condition that breaks for multi- use
+3. what data and how to take in data 
+    a. (data input and data type) take in data and what will it look like
+    b. editing the data
+4. Data persistence & input validation
